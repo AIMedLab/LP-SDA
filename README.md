@@ -1,7 +1,7 @@
 # LP-SDA
 
 ## 1. Introduction
-This repository contains source code for paper ["Towards early detection of adverse drugreactions: combining pre-clinical drug structuresand post-market safety reports"](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0999-1) (accepted by **_BMC Medical Informatics andDecision Making_**). 
+This repository contains source code for paper ["Towards early detection of adverse drugreactions: combining pre-clinical drug structuresand post-market safety reports"](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0999-1) (accepted by **_BMC Medical Informatics and Decision Making_**). 
 
 Please kindly cite the paper if you use the code, datasets or any results in this repo or in the paper:
 ```
